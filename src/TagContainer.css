@@ -1,0 +1,11 @@
+#tagContainer {
+    border: 2px black solid;
+    display: flex;
+    position: absolute;
+    top: 50%;
+}
+
+input {
+    outline: none;
+    border: none;
+}
